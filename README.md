@@ -1,5 +1,5 @@
 # Curso jQuery
- Jquery folder
+ jQuery folders
  
 # Aula 1
 Introdução ao jQuery
