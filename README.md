@@ -1,2 +1,2 @@
-# jquery
+# Curso JQuery
  Jquery folder
