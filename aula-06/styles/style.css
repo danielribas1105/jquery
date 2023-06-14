@@ -1,0 +1,21 @@
+.container__blocos {
+    display: flex;
+    gap: 1rem;
+}
+
+.bloco {
+    width: 200px;
+    height: 200px;
+    background-color: black;
+}
+
+.bloco2 {
+    width: 200px;
+    height: 200px;
+    background-color: red;
+}
+
+.texto__copia {
+    color: red;
+    font-size: 1rem;
+}
