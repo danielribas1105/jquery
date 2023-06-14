@@ -1,0 +1,20 @@
+.container {
+    width: 250px;
+    height: 250px;
+    border: 1px solid black;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.amarelo {
+    background-color: rgb(255, 255, 184); 
+}
+
+.azul {
+    background-color: rgb(191, 191, 253); 
+}
+
+.title {
+    color: blue;
+    font-size: 2rem;
+}
