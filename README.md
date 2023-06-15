@@ -61,3 +61,19 @@ Aprendendo sobre a função TOOGLE
 # Aula 20
 Aprendendo sobre a função ANIMATE em jQuery
 
+# Aula 21
+Aprendendo sobre TOGGLE na função ANIMATE
+
+# Aula 22
+Aprendendo sobre a função DELAY em jQuery
+
+# Aula 23
+Aprendendo sobre as funções fadeIN e fadeOUT
+
+# Aula 24
+Aprendendo sobre a função fadeTO
+
+# Aula 25
+Aprendendo sobre a função fadeTOGGLE em jQuery
+
+
