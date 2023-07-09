@@ -1,4 +1,4 @@
-document.addEventListener('mouseup',function(event){
+$(document).mouseup((event) => {
     //event.preventDefault();
     //alert(event.button);
     if (event.button == 0) {
